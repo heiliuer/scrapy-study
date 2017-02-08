@@ -45,13 +45,7 @@ python 爬虫框架 scrapy 学习源码
     
     - 树莓派3（官方系统 Raspbian）
     
-        sudo apt-get install libffi-dev
-        
-        sudo apt-get install libxml2-dev
-        
-        sudo apt-get install libxslt1-dev
-        
-        sudo apt-get install python-dev
+        sudo apt-get install libffi-dev libxml2-dev libxslt1-dev python-dev
         
         sudo pip install scrapy
         
